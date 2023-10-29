@@ -414,8 +414,8 @@ importers:
         specifier: ^16.18.6
         version: 16.18.6
       '@types/sade':
-        specifier: ^1.7.4
-        version: 1.7.4
+        specifier: ^1.7.6
+        version: 1.7.6
       '@types/set-cookie-parser':
         specifier: ^2.4.2
         version: 2.4.2
@@ -2174,8 +2174,8 @@ packages:
   /@types/resolve@1.20.2:
     resolution: {integrity: sha512-60BCwRFOZCQhDncwQdxxeOEEkbc5dIMccYLwbxsS4TUNeVECQ/pBJ0j09mrHOl/JJvpRPGwO9SvE4nR2Nb/a4Q==}
 
-  /@types/sade@1.7.4:
-    resolution: {integrity: sha512-6ys13kmtlY0aIOz4KtMdeBD9BHs6vSE3aRcj4vAZqXjypT2el8WZt6799CMjElVgh1cbOH/t3vrpQ4IpwytcPA==}
+  /@types/sade@1.7.6:
+    resolution: {integrity: sha512-YfIO6wZicRVmJZQ/fWmHrFrqDtES2byhP6HZ34il6S2RoGJucwO5ZjhXOOI7g1IcVUX7xdkSZVl8Z+nVXoiHJw==}
     dependencies:
       '@types/mri': 1.1.1
     dev: true
